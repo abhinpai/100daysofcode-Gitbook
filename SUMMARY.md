@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Introduction to \#100daysofcode](README.md)
+* [Experience and Advices](experience-and-advices.md)
 
 ## Frontend Technologies
 
